@@ -1,1 +1,8 @@
 /target/
+
+/.classpath
+/.springbeans
+/.project
+/.settings/
+/.grandle/
+/build/
